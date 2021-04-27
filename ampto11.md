@@ -2,4 +2,4 @@
 
 ## Page Editor
 
-![Image of page editor](https://jasoncampbelldev.github.com/portfolio/screen-shots/page-editor.jpg)
+![Image of page editor](https://jasoncampbelldev.github.com/portfolio/gh-pages/screen-shots/database-add-entry.jpg)
