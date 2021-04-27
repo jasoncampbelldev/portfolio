@@ -1,5 +1,5 @@
-#AMPto11
+# AMPto11
 
-##Page Editor
+## Page Editor
 
-![Image of page editor](https://jasoncampbelldev.github.com/portfolio/screen-shots/page editor.jpg)
+![Image of page editor](https://jasoncampbelldev.github.com/portfolio/screen-shots/page-editor.jpg)
